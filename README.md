@@ -1,7 +1,7 @@
 # React-Todo-App
 
 - This is a UI for a To-do App built using React.
-- The setup for creating the React app is done using Webpack.
+- The setup for creating the React app is done using VITE.
 - The UI is built using React components : class component, stateless component and functional component with hooks.
 - Here, the data is static and is being passed to the list from the `ListData.jsx` file.
 - Live demonstration : [Todo App](https://to-do-list-simform.netlify.app/)
