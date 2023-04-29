@@ -82,7 +82,8 @@
 .addButton svg {
   width: 30px;
   height: 30px;
-  color: #e0e0e0;
+  color: #c5c5c5;
+
 }
 .addButton:hover {
   box-shadow: 0 5px 215px #50e3a4;
